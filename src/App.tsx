@@ -1,6 +1,6 @@
 import React from "react";
 import Chat from "./Chat";
-import './../../ai-chatbox/src/App.css'
+import "./App.css";
 
 function App() {
   return (
